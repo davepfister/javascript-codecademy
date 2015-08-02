@@ -21,4 +21,5 @@
 		}
 		</script>
 	</body>
+	<p>End of Game!</p>
 </html>
